@@ -20,9 +20,6 @@ For each pixel in the RGB image, the class label of that pixel in the annotation
 #### Models
 Download and place under *./models*
 
-- [Vietnam CCCD](https://ocsg.larksuite.com/drive/folder/fldusi2Xbq2zcfCSDTEIQOQ1rbe)
-- [Thailand National ID]()
-
 #### Training
 `python train.py`
 
