@@ -1,4 +1,4 @@
-# Semantic Segmentation
+# U-Net.keras
 
 #### Source repository: *[link](https://github.com/divamgupta/image-segmentation-keras)*
 This repository works as a wrapper of the work above. Specific set of function parameters are exposed for general-purpose segmentation problems. To access the full capability of the work, please refer to the original document at /image_segmentation/README.md 
