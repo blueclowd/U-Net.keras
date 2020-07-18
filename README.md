@@ -1,12 +1,12 @@
 # U-Net.keras
 
-#### Source repository: *[link](https://github.com/divamgupta/image-segmentation-keras)*
+### Source repository: *[link](https://github.com/divamgupta/image-segmentation-keras)*
 This repository works as a wrapper of the work above. Specific set of function parameters are exposed for general-purpose segmentation problems. To access the full capability of the work, please refer to the original document at /image_segmentation/README.md 
 
-#### Environment setup:
+### Environment setup:
 `pip install -r requirements.txt`
 
-#### Prepare customized dataset for training
+### Prepare customized dataset for training
 Two folders are needed:
 
 - images - For all the training images
@@ -20,13 +20,13 @@ For each pixel in the RGB image, the class label of that pixel in the annotation
 
 > It is suggested to work on square image for better performance
 
-#### Models
+### Models
 Download and place under *./models*
 
-#### Training
+### Training
 Adjust related parameters and run
 `python train.py`
 
-#### Testing
+### Testing
 Adjust related parameters and run
 `python predict.py`
